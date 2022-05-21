@@ -1,2 +1,2 @@
 # Demo
-Useful commands.
+Useful commands!
